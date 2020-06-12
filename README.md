@@ -2,6 +2,7 @@
 
 ## Cartographic
   - [Safe Streets Trafford](Safe-Streets-Trafford-Explorer)
+  - [Safe Streets Bury](Safe-Streets-Bury-Explorer)
   - [Luxembourg Frontalier Masks distribution](luxfrontmasks)
   - [THYME region bioeconomy map](VirtualTYME_level1)
   - [Generate urban space](city_evolution)
