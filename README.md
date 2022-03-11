@@ -1,6 +1,7 @@
 # serialc.github.io
 
 ## Cartographic
+  - [Triangulate location](rusttrian)
   - [Learn European countries](learn-countries)
   - [Safe Streets Leeds](Safe-Streets-Leeds-Explorer)
   - [Safe Streets Trafford](Safe-Streets-Trafford-Explorer)
