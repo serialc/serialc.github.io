@@ -1,6 +1,7 @@
 # serialc.github.io
 
 ## Cartographic
+  - [Traverse survey error exercise](traverse_survey_error)
   - [Triangulate location](rusttrian)
   - [Learn European countries](learn-countries)
   - [Safe Streets Leeds](Safe-Streets-Leeds-Explorer)
