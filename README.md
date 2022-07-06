@@ -1,6 +1,7 @@
 # serialc.github.io
 
 ## Cartographic
+  - [Real-time replay of GeoJSON points](follow_the_map_points)
   - [Traverse survey error exercise](traverse_survey_error)
   - [Triangulate location](rusttrian)
   - [Learn European countries](learn-countries)
@@ -21,6 +22,9 @@
   - [Arange furniture](Furnissure)
   - [Choose a colour](svg_colour_selection_palette)
   - [What time is it?](altClocks)
+
+## Teaching
+  - [Introduction to WebGIS](webmaps_introduction)
 
 ## Other
   - [Acknowledge the Climate Crisis](http://acknowledge-the-climate-crisis.org)
