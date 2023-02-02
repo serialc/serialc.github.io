@@ -12,6 +12,9 @@
   - [THYME region bioeconomy map](VirtualTYME_level1)
   - [Generate urban space](city_evolution)
 
+## Tools
+  - [Extract NMEA data](gnss_accuracy_and_error_oer/processing/)
+
 ## Infographics 
   - [COVID-19 Policy Watch](covid19-policy-watch/www)
   - [Better Credit Card info](better_cred_info)
@@ -25,6 +28,7 @@
 
 ## Teaching
   - [Introduction to WebGIS](webmaps_introduction)
+  - [GNSS accuracy and error lesson](gnss_accuracy_and_error_oer)
 
 ## Other
   - [Acknowledge the Climate Crisis](http://acknowledge-the-climate-crisis.org)
