@@ -28,6 +28,7 @@
   - [What time is it?](altClocks)
 
 ## Teaching
+  - [Introduction to Inkscape](inkscape_poster_making_tutorial/inkscape_poster_making_tutorial.html)
   - [Introduction to WebGIS](webmaps_introduction)
   - [GNSS accuracy and error lesson](gnss_accuracy_and_error_oer)
 
