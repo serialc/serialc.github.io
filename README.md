@@ -1,6 +1,7 @@
 # serialc.github.io
 
 ## Cartographic
+  - [30DayMapChallenge](30DayMapChallenge)
   - [Real-time replay of GeoJSON points](follow_the_map_points)
   - [Traverse survey error exercise](traverse_survey_error)
   - [Triangulate location](rusttrian)
