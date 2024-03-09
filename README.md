@@ -12,6 +12,7 @@
   - [Luxembourg Frontalier Masks distribution](luxfrontmasks)
   - [THYME region bioeconomy map](VirtualTYME_level1)
   - [Generate urban space](city_evolution)
+  - [Cartographic symbol size generator](cartographic_symbols)
 
 ## Tools
   - [Extract NMEA data](gnss_accuracy_and_error_oer/processing/)
