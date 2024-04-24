@@ -34,6 +34,7 @@
   - [Introduction to WebGIS](webmaps_introduction)
   - [GNSS accuracy and error lesson](gnss_accuracy_and_error_oer)
   - [Parsing PDFs (with R)](lux_airport_noise/analysis/presentation.html)
+  - [Timestable practice](timestable)
 
 ## Other
   - [Acknowledge the Climate Crisis](http://acknowledge-the-climate-crisis.org)
