@@ -16,7 +16,8 @@
 
 ## Tools
   - [Extract NMEA data](gnss_accuracy_and_error_oer/processing/)
-  - [Satellite skyplotter](https://github.com/serialc/GNSS_skyplotter)
+  - [Satellite skyplotter](GNSS_skyplotter)
+  - Extracting PDF data [lesson](lux_airport_noise/analysis/presentation.html) & [R script](https://github.com/serialc/lux_airport_noise/blob/main/analysis/convert_pdf_to_csv.R)
 
 ## Infographics 
   - [COVID-19 Policy Watch](covid19-policy-watch/www)
