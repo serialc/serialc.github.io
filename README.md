@@ -23,7 +23,7 @@
 
 ## Art 
   - [Fill space](space_pathways)
-  - [Make art with dots](Dotifier/paint)
+  - [Make art with dots](Dotifier)
   - [Arrange furniture](Furnissure)
   - [Choose a colour](svg_colour_selection_palette)
   - [What time is it?](altClocks)
